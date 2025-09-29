@@ -6,7 +6,8 @@ public class Con_example {
 	{
 		// TODO Auto-generated method stub
 		 Basic_class b=new Basic_class();
-			System.out.println("first class creation");
+		 Basic_class b1=new Basic_class(1,2);
+		 			System.out.println("first class creation");
 		
 	}
 
